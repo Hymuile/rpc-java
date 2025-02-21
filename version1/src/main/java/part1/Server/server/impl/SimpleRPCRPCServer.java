@@ -23,7 +23,7 @@ public class SimpleRPCRPCServer implements RpcServer {
         try {
             ServerSocket serverSocket=new ServerSocket(port);
             System.out.println("服务器启动了");
-            System.out.println("20250221_20:00");
+            System.out.println("20250221_20:11");
             while (true) {
                 //如果没有连接，会堵塞在这里
                 Socket socket = serverSocket.accept();
