@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="krpc-core" />
+        <module name="krpc-consumer (1)" />
+        <module name="krpc-provider (1)" />
+        <module name="krpc-api" />
+        <module name="krpc-consumer" />
+        <module name="krpc-common (1)" />
+        <module name="krpc-api (1)" />
+        <module name="version4" />
+        <module name="version2" />
+        <module name="version3" />
+        <module name="version1" />
+        <module name="krpc-core (1)" />
+        <module name="krpc-common" />
+        <module name="krpc-provider" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
